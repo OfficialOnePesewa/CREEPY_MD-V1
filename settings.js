@@ -6,9 +6,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "233544482494"
+global.ownername = "Pesewa"
+global.ownernumber = '233544482494'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -18,7 +18,7 @@ global.prefa = [',','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
